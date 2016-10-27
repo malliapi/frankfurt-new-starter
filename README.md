@@ -141,6 +141,8 @@ Germany shuts down on a sunday. Supermarkets are closed. Only places open will b
 ## Apps
 The following Apps are very useful.
 
+[Offi Germany Journey Planner for Android Only](https://play.google.com/store/apps/details?id=de.schildbach.oeffi&hl=en_GB)
+
 WhatsApp - Team use this to communicate
 
 Messenger
