@@ -32,6 +32,8 @@ super apartments, 1 to 4 rooms weekly just around the corner, full service, clea
 #### Rental sites
 [Immobilien Scout](https://www.immobilienscout24.de/)
 
+[Immowelt](https://www.immowelt.de/)
+
 [City Residence](https://www.city-residence.de/)
 
 [Paluch](http://www.paluchffm.com/)
@@ -99,6 +101,8 @@ super apartments, 1 to 4 rooms weekly just around the corner, full service, clea
 
 [Google](https://www.google.de/search?q=frankfurt+hotels)
 
+Try asking for the Deutsche Bank Rate. See if you get it cheaper.
+
 
 ### Newcomer sites
 [Expat Arrivals](http://www.expatarrivals.com/germany/frankfurt/accommodation-in-frankfurt)
@@ -113,6 +117,8 @@ Eschborn
 
 #### S-Bahn Light Rail
 Station closest to the Office is Eschborn Sud, 5 minute walk away. This is the S-Bahn. It is a light rail train service. This runs frequently. Single to Frankfurt from Eschborn Sud is €2.80, or €7 for an all day multiple journey ticket. S4, S3, S5 run from Frankfurt to Eschborn Sud. Sud means South. Dont confuse this with Eschborn stop as it is further north. And ticket machine can be changed to English, so no need to speak to ticket staff.
+
+Warning - If you do not have a valid ticket and get stopped by the ticket inspector it is an on the spot fine of 60 Euros. (You might be able to pull a fast one and say you are a tourist but you are on your own).
 
 #### Buses
 Bus tickets can be bought at ticket machines, so show ticket to driver and go.
@@ -135,7 +141,7 @@ Germany shuts down on a sunday. Supermarkets are closed. Only places open will b
 ## Apps
 The following Apps are very useful.
 
-WhatsApp
+WhatsApp - Team use this to communicate
 
 Messenger
 
@@ -143,18 +149,24 @@ Viber
 
 Google Translate
 
-mytaxi
+mytaxi - Book a Taxi in Frankfurt
 
-Allo
+Allo - Google
 
 AirBnB
 
-DB Navigator
+DB Navigator - Train and Transport App for Frankfurt
 
 Google Maps
 
+Duo Lingo - Learn German.
+
 ## Sims
-You are likely to be using Pay as You Go sims for a while. There are data sims for tablets that you can use on the phone - Ortel is good. 10Gb per month for €20 euros pay as you go.
+You are likely to be using Pay as You Go sims for a while. There are data sims for tablets that you can use on the phone - Ortel is good. 5Gb per month for €20 euros pay as you go.
+
+Ortel is best if change the provider on your hand set to use the o2 network. 4G in Eschborn and Frankfurt.
+
+Place to buy an ortel data sim is near mainbahnhoff train station - [Internet cafe](https://www.degussa-bank.de/bank-shop-eschborn-plaza)
 
 A sim for calling back home, a cheap lebara or Lyca can be picked up for €8-10 euros. Dump it when you are finished and get a new one. This has 500Mb data and 250 minutes calling.
 
@@ -167,6 +179,61 @@ You may end up have 3 sims and or 3 phones. Your back home sim, a German phone c
 
 ## Bank Accounts
 Bank account requires a valid passport, and proof of residence. This can either be your agreement with your land lord or the local council registration documents. The bank will then post out your stuff to your address.
+
+[degussa-bank](https://www.degussa-bank.de/bank-shop-eschborn-plaza)
+
+
+the best banks in Germany.
+
+Bank Details
+
+Deutsche Bank
+·        Types
+o   AktivKonto (Premium account)
+§  Fee: 4.99 EUR/Month
+§  Advantages: Online banking, Paid Telephone Banking, Paperless Bookings, German Bank Card,
+o   BestKonto (Basic account)
+§  Fee: 9.99 EUR/Month
+§  Advantages: Online banking, Free Telephone banking, 2 MasterCard’s Gold, Cash Insurance
+
+
+Commerzbank
+·        Types
+o   Basic Account
+§  Fee: Free of Charge if at least 1200 EUR/Month will be paid in the bank.
+§  Notice period: 2 Months
+§  Advantages: Online banking, 12 free withdrawals
+o   Premium Account
+§  Fee: 9.90 EUR/Month
+§  Advantages: Online banking, Insurance Cover for client and family, two debit cards and two PremiumKonto cards
+*Application just in person possible
+
+Postbank
+·        Types
+o   Giro Basis
+§  Fee: 5.90 EUR/Month
+§  Advantages: Online banking, visa debit card
+o   Business Giro
+§  Fee:  At least 9.80/Month
+§  Advantages: Online banking, business visa credit card with 40 day payment terms, travel insurance, two debit cards, interest-free credit
+
+Hypovereinsbank
+·        Types
+o   HVB AktivKonto
+§  Fee: 2.90 EUR/Month
+§  Advantages: Bank transactions flexibly online, Free SMS services - for more security, Free Personal Finance Manager (PFM),
+[Brochure] (https://www.hypovereinsbank.de/content/dam/hypovereinsbank/shared/pdf/Produktprofile/PP_HVB_AktivKonto_UK.pdf)
+
+o   HVB PlusKonto
+§  Fee: 7.90 EUR/Month
+§  Advantages: Free standard ec card and transfers, Free SMS services - for more security, Free Personal Finance Manager (PFM)
+[Brochure] (https://www.hypovereinsbank.de/content/dam/hypovereinsbank/shared/pdf/Produktprofile/PP_HVB_PlusKonto_UK.pdf)
+
+o   HVB Exclusivkonto
+§  Fee: 14.90 EUR/Month
+§  Advantages. Free HVB ec card and transfers, Free HVB MasterCard Gold with exclusive insurance package, Worldwide free money withdraw with the HVB MasterCard credit cards, Free SMS services - for more security
+[Brochure](https://www.hypovereinsbank.de/content/dam/hypovereinsbank/shared/pdf/Produktprofile/PP_HVB_ExklusivKonto_UK.pdf)
+
 
 ## Process
 Germany loves its processes and is ruthlessly efficient at following them. Unfortunately this is not to be confused with ruthless process efficiency. Expect things to take a while ... like bank accounts.
