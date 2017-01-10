@@ -112,13 +112,18 @@ Try asking for the Deutsche Bank Rate. See if you get it cheaper.
 Eschborn
 [About](http://www.eschborn.de/en/information-about-the-town-culture-and-tourism/)
 
-
 ### Transport
 
-#### S-Bahn Light Rail
-Station closest to the Office is Eschborn Sud, 5 minute walk away. This is the S-Bahn. It is a light rail train service. This runs frequently. Single to Frankfurt from Eschborn Sud is €2.80, or €7 for an all day multiple journey ticket. S4, S3, S5 run from Frankfurt to Eschborn Sud. Sud means South. Dont confuse this with Eschborn stop as it is further north. And ticket machine can be changed to English, so no need to speak to ticket staff.
+Tickets work for U-Bhan, S-Bahn, trams, buses, and possibly other public transport services. You can buy daily tickets using machines available at most S-Bhan and U-Bhan stations. And ticket machine can be changed to English, so no need to speak to ticket staff.
 
-Warning - If you do not have a valid ticket and get stopped by the ticket inspector it is an on the spot fine of 60 Euros. (You might be able to pull a fast one and say you are a tourist but you are on your own).
+Single to Frankfurt from Eschborn Sud is €2.80, or €7 for an all day multiple journey ticket. 
+
+To buy a monthly ticket, you can do so at the VGF/RMV office at Hauptewache. Monthly tickets cost €87.40, or €69.90 if buying a ticket you can only use after 9am. You should receive a plastic card, which you can then top up at ticket machines.
+
+***Warning*** - If you do not have a valid ticket and get stopped by the ticket inspector it is an on the spot fine of 60 Euros. (You might be able to pull a fast one and say you are a tourist but you are on your own).
+
+#### S-Bahn Light Rail
+Station closest to the Office is Eschborn Sud, 5 minute walk away. This is the S-Bahn. It is a light rail train service. This runs frequently.  S4, S3, S5 run from Frankfurt to Eschborn Sud. Sud means South. Dont confuse this with Eschborn stop as it is further north. 
 
 #### Buses
 Bus tickets can be bought at ticket machines, so show ticket to driver and go.
