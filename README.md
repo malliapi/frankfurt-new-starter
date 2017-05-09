@@ -168,6 +168,8 @@ Google Maps
 
 Duo Lingo - Learn German.
 
+[ally|City Transport App](https://www.allyapp.com)
+
 ## Sims
 You are likely to be using Pay as You Go sims for a while. There are data sims for tablets that you can use on the phone - Ortel is good. 5Gb per month for €20 euros pay as you go.
 
